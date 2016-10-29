@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Connect</title>
+		<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">	
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="socket.io/socket.io.js"></script>
+		<script src="js/game/connect.js"></script>
+	</head>
+<body>
+	<div align="center">
+		<div id="quiz_title">
+			
+		</div>
+		<div id="quiz_pic">
+			
+		</div>
+		
+		<div>
+			<form>		
+				<h3>Connect as audience participant</h3>
+				<div>
+					<label for="unofficial_team_name">Team name</label>
+					<input type="text" id="unofficial_team_name"  style="text-transform:uppercase"/>
+				</div>
+				<div>
+					<button id="btn_connect_unofficial" class="btn btn-default">Connect</button>
+				</div>
+				
+				<h3>Connect as official participant</h3>
+				<div>
+					<label for="official_team_name">Team name</label>
+					<input type="text" id="official_team_name"  style="text-transform:uppercase"/>	
+				</div>
+				
+				<div>
+					<label for="official_team_code">Quiz Code</label>
+					<input type="password" id="official_quiz_code" maxlength="20" size="20"/>
+				</div>
+				<button id="btn_connect_official" class="btn btn-default">Connect</button>			
+
+				<h3>Connect as spectator</h3>			
+				<button id="btn_connect_spectator" class="btn btn-default">Connect</button>
+				
+				<h3>Connect as administrator</h3>
+				<div>
+					<label for="admin_password">Password</label>
+					<input type="password" id="admin_password" maxlength="20" size="20"/>
+				</div>				
+				<button id="btn_admin_connect" class="btn btn-default">Connect</button>
+			</form>
+		</div>
+	</div>
+	
+	<script>
+	
+	</script>
+</body>
+</html>

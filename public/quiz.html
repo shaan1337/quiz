@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title></title>
+		<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">	
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+		<link rel="stylesheet" href="css/spinkit.css">
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.plugin.min.js"></script>
+		<script src="js/jquery.countdown.min.js"></script>
+		<script src="socket.io/socket.io.js"></script>
+		<script src="js/game/quiz.js"></script>
+	</head>
+<body>
+
+<div class="element" id="timer_area" style="position: fixed; top:0px; height: 70px; width:100%; background-color: rgb(126, 197, 104); font-size: 2em; color:#fff; padding: 5px;">
+	<div align="center">
+		<div id="timer" style="font-size:1.5em"></div>
+		<div id="answer_status" style="font-size:1.5em"></div>
+	</div>
+</div>
+
+<div class="element" id="wait_area" style="display: table; height: 100vh; width:100%; overflow: hidden;">
+	<div style="display: table-cell; vertical-align: middle;">
+		<div id="wait_status" style="font-size: 2em" align="center">
+			Get ready!
+		</div>
+		<div class="spinner"  align="center">
+		  <div class="rect1"></div>
+		  <div class="rect2"></div>
+		  <div class="rect3"></div>
+		  <div class="rect4"></div>
+		  <div class="rect5"></div>
+		</div>
+	</div>
+</div>
+
+<div class="element" align="center" id="question_area" style="width: 100%; padding-top: 80px; padding-bottom: 80px; padding-left:8px; padding-right: 8px">
+	<div class="pic">
+	</div>
+	<div class="question" style="font-size: 2.5em">
+	</div>
+	<div class="answers">
+	</div>
+</div>
+
+<div class="element" id="controlpanel_area" style="width:100%; position: fixed; bottom: 0px; height: 60px; background-color: rgb(108, 108, 108); font-size: 2em; color:#000; padding-top: 7px; padding-right: 10px; padding-left: 10px;">
+	<div style="float:left">
+		<span class="element" id="generic_options_area">
+			<button class="btn btn-default" id="btn_leave_quiz">Leave Quiz</button>
+			<button class="btn btn-default" id="btn_show_leaderboard">Show Leaderboard</button>
+		</span>
+	</div>
+	<div style="float:right">
+		<span class="element" id="participant_area">
+			<span id="participant_rank" style="color:#fff"></span>
+		</span>
+		<span class="element" id="admin_area_show_answer">
+			<button class="btn btn-default" id="btn_admin_cancel_last_question">Cancel last Question</button>			
+		</span>		
+		<span class="element" id="admin_area_before_start">
+			<button class="btn btn-default" id="btn_admin_test_question">Test Question</button>
+			<button class="btn btn-default" id="btn_admin_start_quiz">Start Quiz</button>
+		</span>			
+		<span class="element" id="admin_area_after_start">
+			<button class="btn btn-default" id="btn_admin_next_question">Next Question</button>
+			<button class="btn btn-default" id="btn_admin_end_quiz">End Quiz</button>
+		</span>
+	</div>
+	<div style="clear:both"></div>
+</div>
+<div class="element" align="center" id="leaderboard_area" style="width: 100%; padding-top: 80px; padding-bottom: 80px; padding-left:8px; padding-right: 8px">
+	
+</div>
+
+</body>
+</html>

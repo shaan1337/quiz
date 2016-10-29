@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": false,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "52.211.14.122",
+  "port": "22",
+  "target": "/home/ubuntu/quiz/quizzes/ijtema2016",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ubuntu",
+  "keyfile": "/home/shaan/Documents/keys/ec2/shaan-ireland.pem",
+  "watch": [],
+  "transport": "scp"
+}

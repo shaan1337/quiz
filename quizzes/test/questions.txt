@@ -1,0 +1,51 @@
+title Test Quiz
+img ijtema_2015.png
+admincode test
+quizcode test
+
+q Donnez la date de naissance du St Prophète Mohammad (saw) (mois et année)
+time 10
+marks 1
+a En Avril 580
+ac En Aout 570
+a En Aout 570
+a En Aout 570
+!
+
+q Qui est cette personne?
+img 2.png
+a Theodore Roosevelt
+ac Abraham Lincoln
+!
+
+q Quel est le record du monde du saut en longueur (hommes) ?
+img 3.png
+a 5.60 m
+a 7.35 m
+ac 8.95 m
+a 10.12 m
+!
+
+q En quelle année eut lieu les signes des éclipses lunaires et solaires prophétisant la venue du Messie Promis?
+time 30
+marks 30
+img 4.png
+a 1878
+ac 1894
+a 1901
+a 1908
+!
+
+q A quelle vitesse le son se propage-t-il dans l’air?
+img 5.png
+ac 340 m/s
+a 1 km/s
+a 10 km/s
+a 300 km/s
+!
+
+q Que signifie ce signe de la route?
+img 6.png
+a No parking
+ac No overtaking
+!
