@@ -1,0 +1,219 @@
+title Quiz National Ijtema 2017
+img logo.png
+admincode quiz2017*
+quizcode official4321
+
+q Dans qui mois du calendrier Islamique eski nou ete aujourdhui?
+ac Saffar
+a Muharram
+a Rabbi Al Awwal
+a Rajab
+!
+
+q Donnez moi la traduction du Tasmiyyah, ki nous lire dans Namaaz?
+a Saint est mon Seigneur, le Très-Haut
+a Allah entend celui qui le loue
+ac Au Nom d'Allah, Le Gracieux Le Misericordieux
+a Je cherche refuge aupres Allah contre Satan le Maudit
+!
+
+q Recemment Huzoor dans so Khutbah Jummah ti koz lor le Khaatamun-nabiyyeen, i.e. Sceau  des Prophetes. Donnez moi la reference dans Quran kot faire mention du Khaatamun-nabiyyeen?
+ac Chapitre 33 Versets 41
+a Chapitre 59 Versets 25
+a Chapitre 27 Versets 108
+a Chapitre 2 Versets 256
+!
+
+q Donne la date exacte de l'Eclipse lunaire et Solaire pendant le mois de Ramadan, qui prouve la veracite du Messie Promis (as)?
+a 25th Mars, 1891 et 7th Avril, 1891
+ac 21st Mars, 1894 et 6th Avril, 1894
+a 22nd Mars, 1891 et 4th Avril, 1891
+a 26th Mars, 1894 et 5th Avril, 1894
+!
+
+q Donnez moi le nom de la derniere recente version d'Android?
+a Lollipop
+a Nougat
+ac Oreo
+a Marshmallow
+!
+
+q Comment nous appelle sa rituel kot bizin avoye roche qui symbolise la lapidation de Shaaitan, qui ene parmi bannes etapes du Hajj?
+a Le Waquf
+a La Talbiyah
+ac Ramy-al-Hijaar
+a Jumada al-Thani
+!
+
+q Cette tribu qui était au début alliant envers les Musulmans, se retourna contre ces derniers après la bataille d’Uhud et se montra hostile. De quelle tribu s’agit-il?
+a Banu Qurayza
+a Banu Lahyan
+a Banu Nadir
+ac Banu Mustaliq
+!
+
+q Donnez moi le nom de ce fameux Masjid, qui se trouve en Europe?
+img 8.png
+a Masjid Baitus Sabuh
+a Masjid Bait ul Ahad
+ac Masjid Basharat
+a Masjid Bait-ur-Rahman
+!
+
+q Combien de Rukoo ena dans le St Qur’an?
+a 30
+ac 540
+a 6348
+a 15
+!
+
+q Donnez moi le nom de cette Equipe?
+img 10.png
+ac Huddersfield Town
+a Bournemouth AFC
+a Brighton & Hove Albion
+a Burnley
+!
+
+q Lors de la bataille d’Uhud, quel compagnon du Saint Prophète(saw) se cassa les dents alors qu’il retirait les anneaux qui s’étaient enfoncés dans les joues du Saint Prophète (saw)?
+a Hazrat Abdullah ibn Hudhafah as-Sahmi (ra)
+a Hazrat Sa`d ibn Abî Waqâs (ra)
+ac Hazrat Abu Ubaidah bin al-Jarrah(ra)
+a Hazrat 'Abd Allah ibn 'Amr ibn al-'As (ra)
+!
+
+q Dans ene recent Khutbah Jummah, nous ti entendre parler du "Ghad-de-Basar". Qui veut dire sa?
+a Pardon et reconcilliation
+a Le Chemin du succes
+a Reste en bonne Compagnie
+ac Baisse Regard
+!
+
+q Donnez moi la traduction de  ʾAn-Naml - Chapitre 27 du Qu'ran?
+a L'Araignée
+a Les Abeilles
+ac Les Fourmis
+a L’Éléphant
+!
+
+q Donne Moi l'attribut d'Allah qui so signification est: "Celui qui abaisse"
+a Al Mubdi
+a Al Qaabid
+a Al Baasit
+ac Al Khaafid
+!
+
+q Naypyidaw est la Capital de quelle pays?
+a Malawi
+ac Myanmar
+a Palau
+a Macau
+!
+
+q Dans ene extrait du Khutbah Jummah ki Huzoor ti faire le 10.12.2010 sur le Muharram, Huzoor in dire: "Hazrat Hussein (ra) li parmi banne dimounes qui Allah netoyyer avec so propre la main et couvert zotte d'amour". Ki qualificatif Huzoor ti servi pou sa?
+ac Tahir Mutahhar
+a Waliullah
+a Dhun Nurain
+a Saifullah
+!
+
+q Donne le reference Coranique ki le Messie Promis (as) ti mentionner pour soutenir so veraciter?
+a Surah Al Ahzab Versets 14
+a Surah Taha Versets 15
+a Surah Hijr Versets 10
+ac Surah Yunus Versets 17
+!
+
+q Donnez moi la signification de l'attribut d'Allah Al Qahaar?
+a Celui qui donne l'origine
+ac Le Dominateur Supreme
+a Celui qui ressusite ses serviteurs apres la mort
+a Le Formateur
+!
+
+q Donnez moi l'endroit kot le 5eme Caliph, Hazrat Mirza Masroor Ahmad, ti faire ene address institule: "Responding to the challenge of extremism- A Message of Peace" le 04.12.2012?
+ac European Parliament, Brussels, Belgique
+a Capitol Hill, Washington DC, USA
+a House of Commons, London, UK
+a Conference of World Religions, Guildhall, UK
+!
+
+q Trouvez le diagramme manquant dans cette sequence:
+img 20.png
+a A
+a B
+a C
+ac D
+!
+
+q Donnez moi le nom du livre sacree qui ti finne reveler a Hazrat Moosa (as)?
+a Injeel
+ac Tawraat
+a Zaboor
+a Suhuf
+!
+
+q Dans ene Khutbah Jummah ki le 4eme Caliphe ti faire a Masjid Fadl Londres, li ti annonce le plan beni de Waqf-i-Nau. Donne moi la date de sa Khutbah Jummah la?
+a 30 Avril 1984
+a 28 July 1993
+ac 3 Avril 1987
+a 17 Aout 1988
+!
+
+q Donne moi la reference du St Coran kotte faire mention sur le Khilafat, et ki nous aussi appelle Istiklaaf?
+ac Chapitre 24 versets 56
+a Chapitre 3 versets 145
+a Chapitre 20 versets 115
+a Chapitre 5 versets 4
+!
+
+q Donnez moi le nom d'ene ennemi du Messie Promis (as) ki ti accuse le Messie pour "attempt to murder" et qui ti meme met ene case la court?
+a Alexander Dowie
+ac Henry Martyn Clark
+a Captain Douglas
+a Henry James Prince
+!
+
+q Donne moi le nombre de Carré ki ena dans sa photo la?
+img 25.png
+a 28
+a 32
+a 36
+ac 40
+!
+
+q Jami` Al-Tirmidhi est l'un des 6 Compilations de Hadiths authentiques , mais eski zotte kapav donne moi le nom de so compilateur?
+a Ahmad bin Shu`aib
+a Sulaiman bin Al-Ashah
+a Muhammad Isma`eel
+ac Muhammad bin `Eesa
+!
+
+q Ene Extrait du Khutbah Jummah de 13.10.2017: "si mo pas ti dans ummat de Hazrat (SAW), et mo pas ti suivre Hazrat (SAW), meme si mo ban actions ti equivalent a ban montagnes, mo pas ti pou gagne l'honneur de sa ban revelations divines la". Eski zotte kav donne moi le nom du livre kot le Messie Promis (as) ti ecrire sa?
+a Brahine-Ahmadiyya
+a Tazkiratush-Shahadatain
+a Haqiqatul Wahi
+ac Tajalliyat-e-Ilahiyah
+!
+
+q Comment eski nou apelle le commentaire de pres 6,000 pages du Saint Coran ki le Deuxieme Khalifa Hazrat Mirza Bashirudeen Ahmad (ra) ti faire ?
+ac Tafseer-e-Kabeer
+a Tafseer-e-Sagheer
+a Malfoozat
+a Durre-Samin
+!
+
+q Le St Prophete (SAW) ti envoye banne émissaire a ban rois et Chefs pour faire parvenir le message de l'islam. Eski zotte kav donne moi le nom de l'émissaire qui ti apporte le message de l'islam a Negus, le roi d’Abyssinie?
+a Abdullâh ibn Hudhâfa 
+ac ‘Amr ibn Umayya Damî
+a Hâtib ibn Abî Balta’a
+a ‘Alâ ibn Hadramî 
+!
+
+q Ena ene l'Hotel ki in employe Picasso pou ki li peindre lor la porte de 100 Villas avec chacune so numero (de 1 a 100). Eski zotte kapav dire moi combien fois li pou bizin peindre le numero 8?
+a 10 Fois
+ac 20 Fois
+a 11 Fois
+a 19 Fois
+!
+

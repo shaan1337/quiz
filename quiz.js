@@ -235,7 +235,7 @@ function Participants(){
 
 	this.resetResponses = function(){
 		for(var id in participants){
-			if(participants[id].isRealParticipant){
+			if(participants[id] && participants[id].isRealParticipant){
 				participants[id].resetResponse();
 			}
 		}
@@ -243,7 +243,7 @@ function Participants(){
 
 	this.resetScores = function(){
 		for(var id in participants){
-			if(participants[id].isRealParticipant){
+			if(participants[id] && participants[id].isRealParticipant){
 				participants[id].resetScore();
 			}
 		}
@@ -251,7 +251,7 @@ function Participants(){
 
 	this.updateScores = function(answerId,marks){
 		for(var id in participants){
-			if(participants[id].isRealParticipant){
+			if(participants[id] && participants[id].isRealParticipant){
 				participants[id].updateScore(answerId,marks);
 			}
 		}
@@ -261,7 +261,7 @@ function Participants(){
 
 	this.revertScores = function(answerId,marks){
 		for(var id in participants){
-			if(participants[id].isRealParticipant){
+			if(participants[id] && participants[id].isRealParticipant){
 				participants[id].revertScore(answerId,marks);
 			}
 		}
@@ -290,7 +290,6 @@ function Participant(){
 
 	this.initParent = function(pSocket){
 		socket = pSocket;
-
 		if(socket && socket.handshake && socket.handshake.session){
 			if(typeof socket.handshake.session.unique_id === 'undefined'){
 				console.log('# Participant connected.');
@@ -299,6 +298,7 @@ function Participant(){
 
 			socket.handshake.session.ready_for_quiz = true;
 			socket.handshake.session.participantId = this.getUniqueId();
+			socket.handshake.session.save();
 		}
 	}
 
