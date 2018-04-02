@@ -1,0 +1,247 @@
+title National Ijtema Waqfenou 2018
+img logo.jpg
+admincode admin1337
+quizcode 87654321
+
+q When was Waqf Nau scheme initiated?
+a 1985
+a 1986
+ac 1987
+a 1988
+!
+
+q Mary, who is sixteen years old, is four times as old as her brother. How old will Mary be when she is twice as old as her brother?
+time 45
+a 20
+ac 24
+a 25
+a 26
+a 28
+!
+
+q How many Chapters are there in the Holy Qur’ān?
+a 111
+a 112
+a 113
+ac 114
+!
+
+q If you rearrange the letters "CIFAIPC" you would have the name of a(n):
+a City
+a Animal
+ac Ocean
+a River
+a Country
+!
+
+q Which chapter of the Holy Qur’ān has Bismillah mentioned in it twice?
+a Surah Al-Taubah
+a Surah Al-Fath
+ac Surah Al-Namal
+a Surah Al-Buruj
+!
+
+q Ralph likes 25 but not 24; he likes 400 but not 300; he likes 144 but not 145. Which does he like:
+a 10
+a 50
+a 124
+a 200
+ac 1600
+!
+
+q Which of the following animals is NOT mentioned in the Holy Qur'an?
+a Horse
+a Wolf
+a Monkey
+ac Chicken
+a Lamb
+!
+
+q Which one of the following things is the least like the others?
+a Poem
+a Novel
+a Painting
+a Statue
+ac Flower
+! 
+
+q How many years was the Holy Qur’ān revealed in completely?
+a 19
+a 21
+ac 23
+a 25
+!
+
+q Which larger shape would be made if the two sections are fitted together?
+img shapefit.png
+time 40
+a A
+a B
+ac C
+a D
+!
+
+q Where is the Holy Prophet (saw) buried?
+a Judda
+a Mecca
+ac Medina
+a Hudaydah
+!
+
+q Which of the figures best completes the series?
+img squareseries.png
+time 40
+a A
+a B
+a C
+a D
+ac E
+!
+
+q How long did Jesus live according to a Hadith of the Holy Prophet (saw) ?
+a 80
+a 90
+a 100
+a 110
+ac 120
+!
+
+q What is the number of the parking spot?
+img parking.jpg
+a 77
+ac 87
+a 97
+a 07
+a 68
+!
+
+q What is the name given to a spiritual journey in which the Holy Prophet (saw) visited Baitul Muqaddas in Jerusalem?
+ac Isrā’
+a Mi‘rāj
+a Hijja-tul-Widā‘
+!
+
+q Which famous building is this?
+img famousbuilding.jpg
+a Saint Mark's Basilica
+a Potala Palace
+ac Parthenon
+!
+
+q How long was the period of khilāfat of Hazrat Uthmān (ra) ?
+a 6
+a 8
+a 10
+ac 12
+!
+
+q Who invented the telegraph?
+img telegraph.jpg
+a Alexander Graham Bell
+ac Samuel Morse
+a Thomas Edison
+a Nikola Tesla
+!
+
+q In which year was the Promised Messiah (as) born?
+a 1829
+ac 1835
+a 1847
+a 1889
+!
+
+q How many bones does the skeleton of a human adult consist of?
+a 56
+a 106
+a 156
+ac 206
+a 256
+!
+
+q When did Hazrat Masih Ma’ud (as) receive his first revelation?
+a 1855
+ac 1865
+a 1875
+a 1885
+!
+
+q What is the speed of sound in air?
+ac 344 meters per second
+a 554 meters per second
+a 734 meters per second
+a 954 meters per second
+!
+
+q What was the name of the last book of the Promised Messiah (as)?
+a Baraheen-e-Ahmadiyya
+ac Pegham-e-Sulah
+a Al-Wassiyat
+a Aainai Kamalat-i-Islam
+!
+
+q This painting is known as the "Last Supper", showing Jesus(as) sharing a meal with his disciples on the night before he was arrested and crucified. Who has painted it?
+img last_supper.jpg
+a Pablo Picasso
+a Van Gogh
+ac Leonardo Da Vinci
+a Vincent Van Gogh
+a Michelangelo
+!
+
+q When did the first Jalsa Sālāna take place?
+a 27 December 1890
+a 28 December 1890
+ac 27 December 1891
+a 28 December 1891
+!
+
+q What is the capital of Kenya?
+ac Nairobi
+a Mombasa
+a Malindi
+a Nakuru
+!
+
+q Where did Hazrat Masīh Ma‘ūd (as) pass away?
+a Qadian
+ac Lahore
+a Ludhiana
+a Hoshiarpur
+a Dalhousie
+!
+
+q Which indoor sport is the most popular in the US?
+a Bowling
+a Baseball
+a Badminton
+ac Basketball
+!
+
+q How many volumes does the book Braheene Ahmadiyya comprise?
+a 2
+ac 5
+a 6
+a 1
+!
+
+q What proportion of the oxygen pumped around your body is used by your brain?
+a 5%
+ac 25%
+a 50%
+a 70%
+!
+
+q The Promised Messiah (as) claimed that Hadhrat Isa (as) did not die on the cross but in fact lived to the age of 120 and died far away from Jerusalem. Where is Hadhrat Isa’s (as) tomb located?
+time 40
+a Israel
+ac Kashmir
+a Afghanistan
+!
+
+q What is the age of the universe?
+a 34.3 million years
+a 104.7 million years
+a 5.4 billion years
+ac 13.8 billion years
+a 24.8 billion years
+!
