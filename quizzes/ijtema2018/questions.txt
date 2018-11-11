@@ -1,0 +1,225 @@
+title Quiz National Ijtema 2018
+img logo.png
+admincode ijtemaquiz2018*
+quizcode official4321
+
+q Donnez moi l'attribut d'Allah dont la signification est : "Celui qui redonne existence apres la mort"
+a Al Mubdi'
+ac Al Mu'eed
+a Al Muhyee
+a Al Mumeet
+!
+
+q Donnez moi la traduction de cette partie du namaaz?
+img 2.png
+a O Allah, je cherche refuge aupres de toi contre le tracas et la peine et contre l'insuffisance.
+ac Toutes les salutations sont a Allah, ainsi que toutes les prieres et toutes les choses pures.
+a O Allah, je cherche refuge aupres de toi contre la lachete et l'avarice et contre l'endettement.
+a Saint es-Tu, O Allah, et toutes les louanges sont a Toi, et beni est ton Nom.
+!
+
+q Au sujet d’un de ses fils, de Hazrat Ahmad(a.s) eut cette revelation: Wo Bâdshah âya’ (Voilà le roi est venu). Donnez moi le nom de ce fils?
+a Mirza Fazl Ahmad(r.a)
+a Mirza Bashir Ahmad(r.a)
+ac Mirza Sharîf Ahmad(r.a)
+a Mirza Sultan Ahmad(r.a)
+!
+
+q Quel compagnon, en apprenant la tournure tragique des événements à Uhud prononça ces mots: "O datte, à part toi, y a-t-il autre chose qui me sépare du Paradis?"
+a Abû ‘Ubaïda ibn Al-Jarrâh (ra)
+a Abu Ruwaiha (ra)
+a Sa’d ibn Ma’âdh (ra)
+ac Anas ibn Nadr (ra)
+!
+
+q Trouver l'annee manquante? 1841, 1889, _____, 1928, 1950. Indice: Khilafat!
+a 1891
+a 1908
+ac 1909
+a 1914
+!
+
+q Quelle est la distance du point ou l'on tire des penalty jusqu'a la ligne de but, dans un terrain de football?
+a 9 Metres
+ac 11 Metres
+a 12 Metres
+a 13 Metres
+!
+
+q Donnez moi la reference Coranique du verset sur la Cruxification de Hazrat Issa (as): Et qu’ils ont dit : " Nous avons en vérité tué le Messie, Jésus, fils de Marie, le Messager d’Allāh " ; alors qu’ils ne l’ont ni tué, ni crucifié, mais il a été donné une apparence d’un crucifié pour eux ; et ceux qui ne s’accordent pas là-dessus sont assurément dans le doute à ce sujet ; ils n’en ont aucune connaissance sûre, mais ils ne font que poursuivre une conjoncture ; et ils ne l’ont certainement pas tué.
+time 60
+a Chapitre 41 Versets 58
+a Chapitre 58 Versets 4
+ac Chapitre 4 Versets 158
+a Ch 85 Versets 14
+!
+
+q Quel est le 6eme Mois du Calendrier Islamique?
+a Zul-Qaadah
+a Zul-Hijjah
+a Jumada-Al-Awwal
+ac Jumada-Al-Thani
+!
+
+q Quelle date Hazrat Shahibzada Abdoul Latif Shahid(r.a) a ete martyriser en Afghanistan?
+a 19 Juin 1913
+a 8 Mars 1896
+ac 14 Juillet 1903
+a 20 Septembre 1924
+!
+
+q Quand Hazrat Umar (ra) décida d’aller chez sa soeur, Khabbâb récitait une partie du Saint Coran. Donnez le nom de ce chapitre et versets qui changea le coeur de Hazrat Umar (ra).
+a Surah Al Baqara Versets 285 et 286
+a Surah Tâhâ Versets 20 et 21
+a Surah Al Baqara Versets 56 et 57
+ac Surah Tâhâ Versets 15 et 16
+!
+
+q Donnez moi le nom de ce personnage célèbre de L'Ahmadiyyat?
+img 11.png
+a Liaqat Ali Khan
+a Sir Muhammad Zafrullah Khan (ra)
+ac Professeur Abdus Salam
+a Mirza Muzaffar Ahmad Sahib
+!
+
+q Nommer le pays dont le drapeau est indiqué ci-dessus?
+img 12.png
+a Slovaquie
+ac Slovénie
+a Serbie
+a Kosovo
+!
+
+q Comment s'appelle cette partie du namaaz, qui est comme suit?
+img 13.png
+a Taawwudh
+a Tasmiah
+ac Tahmid
+a Thana
+!
+
+q Donnez moi la reference Coranique de ce verset suivant: Et Je n’ai créé les djinns et les hommes que pour qu’ils M’adorent.
+a Al Imran Verset 145
+ac Al Dhariyat Verset 57
+a Al Maidah Verset  4
+a Al Hijr Verset 10
+!
+
+q Donnez-moi le nom d'un ennemi acharner du Messie Promis (as) qui a ecrit le livre "Sayf-e-Chishtia"?
+a Zafar Dîne
+ac Pir Meher Ali Shah
+a Ghulâm Dastaghir
+a Abdoullah Atham.
+!
+
+q Qui était le maître de Bilâl quand celui-ci était encore un esclave?
+a Abu Jahl
+a Suraqa ibn Mâlik.
+ac Umayya ibn Khalf
+a Abu Lahab
+!
+
+q Donnez moi le nom de ce Masjid qui a ete inaugure le 14 Octobre 1994?
+img 17.png
+ac Bait al Rahman Mosque, USA
+a Baitun Nasr Mosque, Norway
+a Baitul Ahad Mosque, Japan
+a Khadija Mosque, Germany
+!
+
+q Qui est le Fondateur du celebre "Twitter" en Mars 2006?
+a Talmon Marco
+a Jan Koum
+ac Jack Dorsey
+a Niklas Zennström
+!
+
+q Donnez moi la signification de cet attribut d'Allah?
+img 19.png
+a Le Dominateur Supreme 
+a Le Sécurisant 
+a Le Subsistant par soi 
+ac Le Formateur
+!
+
+q Donnez moi la reference Coranique du verset suivant: Lorsqu’Allāh dit : " Ô Jésus, Je te ferai mourir de mort naturelle et Je t’élèverai à Moi et Je te laverai des accusations de ceux qui n’ont pas cru et Je mettrai ceux qui te suivent au-dessus des mécréants jusqu’au Jour de la Résurrection ; puis c’est vers Moi que sera votre retour et Je jugerai entre vous concernant ce sur quoi vous étiez en désaccord. "
+time 60
+a Al Yunus Verset 17
+ac Al Imran Verset 56
+a An Nur Verset 56
+a Al Maidah Verset 17
+!
+
+q Donnez le nom du livre que Hazrat Ahmad(a.s) fit publié en 1897 et qui contient les details d'accomplissement de 37 Prophecy que le Messie Promis (as) avait fait basant sur les revelations qu'il recevait?
+a Surma Chashma-i-Arya.
+ac Siraj-i-Munir
+a Najmul Huda
+a Shahna-i-Haq
+!
+
+q Quand les Banû Quraiza furent assiégés par l’armée musulmane, ils demandèrent au Saint Prophète(s.a.w) de leur envoyer un chef Ansâr de la tribu Aus pour une délibération et un accord possible. De qui s’agit-il?
+a Amr ibn Sa’dî.
+ac Abû Lubâba.
+a Huyayy ibn Akhtab
+a Nawfal
+!
+
+q Donnez moi le titre du discours que notre bien-aimee Huzoor a delivree le 27 June 2012 au Capitol Hill a Washington D.C. ?
+a Islam, a religion of peace and compassion
+ac The Path to Peace – Just Relations between Nations
+a God in the 21st Century
+a Responding to the challenge of extremism- A Message of Peace
+!
+
+q Trouvez le chiffre manquant?
+img 24.png
+time 60
+a 3
+a 4
+ac 5
+a 6
+!
+
+q Vers quelle peuple est-ce que le Prophet Hazrat Yunus (as) a-t-il etait envoyer?
+a Le Peuple Hud
+ac Le Peuple Ninive
+a Le Peuple Thamud
+a Le peuple ʿĀd
+!
+
+q Donnez moi la reference Coranique qui contient ce verset:
+img 26.png
+a Chapitre 2 Versets 256
+ac Chapitre 2 Versets 257
+a Chapitre 3 Versets 54
+a Chapitre 3 Versets 55
+!
+
+q Donner moi la reference biblique ou est fait mention du signe de l'eclipse lunaire et solaire,  concernant l’avènement du Mahdi (as)?
+a Mark Chapitre 12 Verset 29
+ac Mathieu Chapitre 24 Verset 29
+a John Chapitre 10 Verset 16
+a Matt Chapitre 10 Verset 5
+!
+
+q Qui est l’auteur de ces mots en referrant au St Prophete (saw): "Retournons à Médine. Alors le plus honorable parmi les Médinois repoussera le plus méprisé."
+ac Abdullah ibn Ubayy ibn Salul.
+a Amir ibn Sadi
+a Abu Lahab
+a Sad ibn Muadh
+!
+
+q D'apres le calendrier "Hijri Shamsi" que le Musleh Maoud (ra) ti implementer en 1940, quel mois est equivalent au mois de Juin?
+a Tabligh
+a Hijrat
+ac Ehsan
+a Shahadat
+!
+
+q La peur des injections ou de l'aiguille est aussi connue comme:
+ac La trypanophobie
+a La nécrophobie
+a La pediophobie
+a La aiguilophobie
+!
