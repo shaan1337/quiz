@@ -1,5 +1,7 @@
 ## Web-based, Multiplayer, Real-time, Multiple-choice Quiz with Node.js
 
+![Screenshot](https://user-images.githubusercontent.com/14981676/48313771-8b72fc00-e5da-11e8-9f1a-0426a54f7399.png)
+
 ### Features
 - Multiplayer: Connect dozens of players from PC/mobile to participate in the quiz
 - Responsive, real-time (socket.io) web-based interface
