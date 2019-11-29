@@ -1,0 +1,238 @@
+title Quiz National Ijtema 2019
+img logo.png
+admincode ijtema2019quiz*
+quizcode 4321
+
+q Couma zotte deja connais, le theme de sa Ijtema la c’est “Our God”. Donc eski zotte capav donne-moi le nom de l’auteur du livre “Our God” qui ti finne publie en 1927 ?
+a Hazrat Mirza Tahir Ahmad (ra)
+a Hazrat Mirza Bashirudeen Mahmood Ahmad (ra)
+a Hazrat Mirza Nasir Ahmad (ra)
+ac Hazrat Mirza Bashir Ahmad (ra)
+!
+
+q Dans qui Surah du Saint Coran eski finne faire mention de la bombe atomique ?
+a Surah Al Baqarah
+ac Surah Al Humazah
+a Surah Az-Zalzala
+a Surah Al-ʾAḥzāb
+!
+
+q Donnez-moi la signification de cet attribut d'Allah?
+img 3.jpg
+a Le Dominateur Supreme 
+a le Sécurisant 
+a Le Subsistant par soi 
+ac Le Formateur
+!
+
+q Avant le 20eme Siècle, banne astronomes et Scientistes ti ena la conviction qui le Soleil li stationnaire. Ce n'est que récemment que L'astronomie Moderne, d'après bannes recherches, qui in prouver ki le Soleil li bouge lor ene l'Orbite autour du centre de notre Galaxie. Mais sa ti fini être mentionner dans le St Coran par le verset suivant: "Et c’est Lui Qui créa la nuit et le jour, et le soleil et la lune, chacun qui navigue dans une orbite séparée". Donnez-moi le nom Du Chapitre du St Coran qui contient ce verset.
+time 60
+img 4.jpg
+a Surah An-Nūr
+ac Surah Al -ʾAnbiyāʾ
+a Surah Al-Ḥadīd
+a Surah Al-Mulk
+!
+
+q En 1929, ki  Astronome Americain fine reussi prouver ki l’Univers en expansion?
+a Nicolaus Copernieus
+a Sir Isaac Newton
+a Claudius Ptolemy
+ac Edwin Hubble
+!
+
+q Qui Signification de "Warzuqni" dans la position assisse appeler le Jilsa?
+img 5.jpg
+a et aie pitié de moi
+ac et accorde moi mes provisions
+a et protège moi
+a et élève moi
+!
+
+q Quand Hazrat Ahmad(a.s) atteignit ses 17 ans, qui lui enseigna l’Arabe, la logique et la philosophie?
+img 6.jpg
+a Fadl Ilahi
+a Fadl Ahmad
+ac Gul Ali Shah
+a Sheik Hamid Ali
+!
+
+q Donnez-moi l'attribut d'Allah dont la signification est : "Le Créateur, Le Novateur"
+img 7.jpg
+a Al Baasit
+ac Al Baari'
+a Al Baa'ith
+a Al Baaqi
+!
+
+q Qui est le Fondateur du célèbre "Twitter" en Mars 2006?
+img 8.jpg
+a Talmon Marco
+a Jan Koum
+ac Jack Dorsey
+a Niklas Zennström
+!
+
+q Après avoir reçu la première révélation, Hazrat Khadîdja (ra) amena le Prophète (s.a.w) chez un membre de sa famille. Après avoir écouté ce qui s’était passé, la personne a dit: "L’ange qui était descendu sur Moïse (a.s) est descendu sur toi, j’en suis sûr." (Bukhari).  Donnez-moi le nom de cette personne.
+time 60
+a Bahira
+a Hazrat Zaid bin Harith (ra)
+a Hazrat Abu Bakr (r.a)
+ac Waraqa ibn Naufal
+!
+
+q Qui était l’organisateur du Congrès des Grandes Religions qui eut lieu le 26, 27, 28 décembre 1896 à Lahore ?
+img 10.jpg
+a Guru Baba Nanak
+a Atma Râm
+ac Swami Shugan Chandra
+a Lala Bhim Sen
+!
+
+q Donnez-moi le Chapitre du St Coran qui contient ce verset:
+img 11.jpg
+a Surah Tā Hā
+ac Surah Al-Baqara
+a Surah Āl-ʿImrān
+a Surah An-Nisāʾ
+!
+
+q Qui amena les chameaux à la caverne de Thaur pour le Saint Prophète(s.a.w) et Hazrat Abû Bakr (ra)?
+img 12.jpg
+a Abd al-Rahmân ibn ‘Auf
+ac Amir ibn Fuhaira 
+a Zaid Ibn Harith
+a Abû Ayyub Ansari
+!
+
+q Bandar Seri Begawan est la Capitale de quelle pays?
+img 13.jpg
+a Eritree 
+ac Brunei 
+a République de Kiribati 
+a Ouzbékistan
+!
+
+q Donnez-moi le nom de ce Masjid du Jamaa't Ahmadiyya:
+img 14.jpg
+a Masjid Fazal
+ac Masjid Mubarak
+a Masjid Bait-ul-Futuh
+a Masjid Baitus Salam
+!
+
+q Qui fut envoyé en Abyssinie à la tête d’une délégation pour persuader le roi de remettre les musulmans aux mains des Mecquois? Cette même personne, plus tard, embrassa l’Islam et conquérit l’Égypte.
+time 45
+img 15.jpg
+ac Amr Ibn Al-As
+a Abd al-Rahmân ibn ‘Auf
+a Khâlid bin Walîd
+a Sa’d ibn Mu’adh
+!
+
+q Donnez-moi la référence coranique de ce verset dont la traduction est comme suit: "O vous qui croyez! Les intoxicants et les jeux de hasard et les idoles et les flèches divinatrices ne sont qu'une abomination, œuvre de Satan. Fuyez donc chacune de ces choses afin de pouvoir prospérer"
+time 45
+a Surah Al Hijr Verset 10
+ac Surah Al-Ma’idah Verset 91
+a Surah Al Imran Verset 56
+a Al Dhariyat Verset 57
+!
+
+q Comment s'appelle l'étoffe de soie (noire) qui recouvre la Kaa'ba?
+img 17.jpg
+a Ihram
+ac Kiswah
+a Hijjah
+a Hateem
+!
+
+q Donnez-moi le nom du club a qui appartient ce stade:
+img 18.jpg
+a Tottenham Hotspur
+ac West Ham United
+a Southampton
+a Napoli
+!
+
+q Dans le livre L'Arche de Noé, donnez-moi la révélation que le Messie Promis (a.s) a reçu concernant la protection de ces adhérant contre la peste? La traduction est comme suit: « Je protègerai tous ceux qui sont dans ta maison. »
+time 60
+img 19.jpg
+a Sha‘ataané touzbahaani wa koullou man alayha faan
+ac Inni ouhaafizou koullaman fiddâr
+a Mazmoune bhala raha
+a Rabbé koullo shay’ine khaa-dimoka rabbé fah-faznii wan-sournii war-hamnii
+!
+
+q Pendant la quatrième année de l’Hégire, deux tribus demandèrent au Prophète (s.a.w) de leur envoyer des gens capables de leur enseigner l’Islam. L'un d'entre eux est Adl. Donnez-moi le nom de l'autre tribu?
+img 20.jpg
+a Khazraj
+a Aus
+ac Quâra
+a Banû Quraiza
+!
+
+q D'après le calendrier "Hijri Shamsi" que le Musleh Maoud (ra) ti implémenter en 1940, quel mois est équivalent au mois de Juin?
+img 21.jpg
+a Tabligh
+a Hijrat
+ac Ehsan
+a Shahadat
+!
+
+q Eski zotte kapav donne moi le maximum nombre de racines en Arabic qui Allah ti enseigne le Messie Promis (as) dans ene seul jour? Pour zotte informations, Ena plus ki 2,700,000 racines dans la langue Arabe!
+time 45
+img 22.jpg
+a 40
+a 400
+a 4000
+ac 40000
+!
+
+q Si la datte complète la trajectoire d'après la direction indiquer et termine sur la case ayant la flèche rouge, quel chiffre serait en haut sur la datte? Tip: La somme des nombres de deux carrés qui sont face à face sur les dés est toujours 7.
+time 60
+img 23.jpg
+ac 3
+a 4
+a 5
+a 6
+!
+
+q Donnez-moi la référence Coranique du verset dont la traduction est comme suit: Et souvenez-vous quand Jésus, fils de Marie, dit : " Ô Enfants d’Israël, assurément je suis pour vous le Messager d’Allāh, accomplissant ce qui a été mentionné dans la Torah avant moi, et annonçant la bonne nouvelle d’un Messager qui viendra après moi. Son nom sera Ahmad. " Et lorsqu’il vint à eux avec des preuves évidentes, ils dirent : " Ceci est de la magie manifeste. "
+time 60
+a Surah An-Nisāʾ Verset 158
+a Surah Al Maidah Verset 17
+ac Surah As-Saf Verset 7
+a Surah An Nur Verset 56
+!
+
+q Pendant le Hajj, Comment est-ce qu'on appelle la traverser de va-et-vient entre les collines Safa et Marwah que les pèlerins doivent effectuer à 7 reprises?
+img 25.jpg
+a Ramy al-Jamarat
+ac Sa’ey
+a Tawaf
+a Ihram
+!
+
+q Dans le At Thana, donnez-moi la partie Arabic dont la signification est comme suit: "et exaltée est Ta Majesté"?
+a Lil Ladhi Fataras Samawati
+a Wa Laa ilaaha Ghairuk
+a Wa Tabaarakasmuka
+ac Wa Ta'ala jad-duka
+!
+
+q Donne-moi le nom de sa Compagnon la ki ti parmi bannes archers qui le St Prophète (saw) ti choisir li mem et ki finne participe dans plusieurs batailles. Li ti appartenir a Banu Zafar de la tribu de Khazraj et lor d'ene bataille li ti gagne ene coute flèche dans so lizier kot so lizier ti sorti depi dans so l’orbite. Ti faire mention de sa Compagnon du St Prophète (saw) la dans le Khutbah Jummah du 16 Aout 2019.
+time 60
+img 27.jpg
+a Hadhrat Abdullah Bin Mazoon ra
+a Hadhrat Zaid bin Harith ra
+ac Hadhrat Qatadah bin Nu’man Ansari ra
+a Hadhrat Abu Saeed Khudri ra
+!
+
+q La peur des injections ou de l'aiguille est aussi connue
+img 28.jpg
+ac La trypanophobie
+a La nécrophobie
+a La pediophobie
+a La aiguilophobie
+!
