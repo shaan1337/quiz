@@ -4,6 +4,7 @@ admincode 1337*admin
 quizcode 1234
 
 q Where did the Promised Messiah(as) receive the revelation about the Promised Son: Hadhrat Mirza Bashiruddin Mahmood Ahmad (ra)?
+img q1.jpg
 a Ludhiana
 ac Hoshiarpur
 a Bihar
@@ -18,6 +19,7 @@ a 60 days
 !
 
 q On what date did Hadhrat Mirza Ghulam Ahmad (as) pronounce the prophecy regarding the venue of a blessed son?
+img Hadhrat_Mirza_Ghulam_Ahmad.jpg
 a 23rd March 1886
 a 23rd March 1889
 ac 20th February 1886
@@ -25,6 +27,7 @@ a 20th February 1889
 !
 
 q What is the name of the green leaflet published regarding the prophecy of the Promised Son?
+img green_leaflet.jpg
 a Ser-e-Roohani
 ac Sabz Ishtehar
 a Malaykatullah
@@ -38,7 +41,7 @@ a forty days
 a Between 1889 to 1893
 !
 
-q What was the date on which the Musleh Maoud (ra) was elected as the second successor of Mirza Ghulam Ahmad (as) on?
+q What was the date on which the Musleh Maoud (ra) was elected as the second successor of Mirza Ghulam Ahmad (as)?
 a 12 January 1889
 a 20 February 1889
 ac 14 March 1914
@@ -60,6 +63,7 @@ a 25 years
 !
 
 q In which year did the Musleh Maoud (ra) perform the Hajj?
+img hajj.jpg
 a 1865
 a 1885
 ac 1912
@@ -67,13 +71,14 @@ a 1906
 !
 
 q The newspaper Al Fazl was initiated by Hazrat Musleh Maoud (ra) on which date:
+img al_fazl.jpg
 ac June 18, 1913
 a June 23, 1913
 a September 18, 1912
 a September 23, 1912
 !
 
-q How many children did the Musleh Maoud (ra) had and how many died during their infancy?
+q How many children did the Musleh Maoud (ra) have and how many died during their infancy?
 ac 28 and 5 respectively
 a 27 and 5 respectively
 a 23 and 5 respectively
@@ -81,6 +86,8 @@ a 22 and 3 respectively
 !
 
 q The Musleh Maoud (ra) became the son-in-law of Hakim Noor-ud-Din (ra), the first caliph of the Ahmadiyya movement through his marriage with whom ?
+time 45
+img Maulvi_Hakeem_Nooruddin.jpg
 a Mahmooda Begum
 a Sarah Begum
 a Bushra Begum
@@ -140,13 +147,15 @@ a The Promised Caliph
 !
 
 q How many volumes does the original Tafseer-e-Kabeer - "The Extensive Commentary" of the Holy Quran written by the Musleh Maud(ra) contain?
+img tafseer_e_kabeer.jpg
 a 5
 a 7
 ac 10
 a 15
 !
 
-q What is the name of the 26 volume compilation of his works which contains over 800 writings and lectures (excluding the many thousands of sermons) called?
+q What is the name of the 26 volume compilation of the works of Hadhrat Musleh Maud (ra) which contains over 800 writings and lectures (excluding the many thousands of sermons) called?
+time 45
 a Ser-e-Roohani
 ac Anwarul Uloom
 a Malaykatullah
@@ -162,6 +171,8 @@ a Amtul Hakeem Begum
 !
 
 q How is Hadhrat Mirza Masroor Ahmad (atba) related to the Musleh Maoud (ra)?
+time 45
+img Hadhrat_Mirza_Masroor_Ahmad.jpg
 a his maternal grandfather
 a his wife's maternal grandfather
 a his paternal grandfather's brother
@@ -177,6 +188,7 @@ a Mahmooda Begum
 !
 
 q In which year did the Musleh Maud(ra) visit various Middle Eastern and European countries? During this tour, the foundation stone of the Fazl Mosque was also laid.
+img europe_tour.jpg
 a 1922
 a 1923
 ac 1924
@@ -190,14 +202,17 @@ a 1944
 ac 1954
 !
 
-q On the 27th of February 1922, an Ahmadiyya delegation presented a book which the Musleh Maoud (ra) wrote and based on Islamic Teachings to the Prince of Wales. How much money and how many people contributed to print this book:
-ac 1 Anna by more than 20,000 members of the Jammat
-a Rs. 2 by 10,000 members of the Jammat
-a 1 Anna by 10,000 members of the Jammat
-a Rs. 2 by more than 20,000 members of the Jammat
+q On the 27th of February 1922, an Ahmadiyya delegation presented a book which the Musleh Maoud (ra) wrote based on Islamic Teachings to the Prince of Wales. How much money and how many people contributed to print this book:
+time 60
+ac 1 Anna by more than 20,000 members of the Jamaat
+a Rs. 2 by 10,000 members of the Jamaat
+a 1 Anna by 10,000 members of the Jamaat
+a Rs. 2 by more than 20,000 members of the Jamaat
 !
 
 q Hazrat Musleh Maud (ra) called on the Jamaat for financial contribution for the completion of the Minaratul Masih. As a result when was the Minaret completed ?
+time 40
+img minaratul_masih.jpg
 a November, 1914
 ac December, 1916
 a November, 1916
